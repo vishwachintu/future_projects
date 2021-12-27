@@ -1,0 +1,122 @@
+[
+    {
+        "text": "Welcome to MedAppeal, the machine-learning AI that helps you write medical insurance appeal letters quickly and simply!",
+        "type": "question"
+    },
+    {
+        "text": "Hello",
+        "id": "1587211663277"
+    },
+    {
+        "id": "1587211663282",
+        "text": "What's your name?",
+        "type": "question"
+    },
+    {
+        "text": "Tony La",
+        "id": "1587211669851"
+    },
+    {
+        "id": "1587211669854",
+        "text": "And what's your address?",
+        "type": "question"
+    },
+    {
+        "text": "123 albany st NY 12209",
+        "id": "1587211679451"
+    },
+    {
+        "id": "1587211679454",
+        "text": "What's your phone number?",
+        "type": "question"
+    },
+    {
+        "text": "123456789",
+        "id": "1587211683663"
+    },
+    {
+        "id": "1587211683668",
+        "text": "What's your physician's name?",
+        "type": "question"
+    },
+    {
+        "text": "John davis",
+        "id": "1587211689738"
+    },
+    {
+        "id": "1587211689742",
+        "text": "What's the address of your doctor/physician's office?",
+        "type": "question"
+    },
+    {
+        "text": "134 main st NY NY 10001",
+        "id": "1587211702241"
+    },
+    {
+        "id": "1587211702244",
+        "text": "What's your claim number?",
+        "type": "question"
+    },
+    {
+        "text": "45678",
+        "id": "1587211706236"
+    },
+    {
+        "id": "1587211706240",
+        "text": "What's the name of your insurance provider?",
+        "type": "question"
+    },
+    {
+        "text": "All state",
+        "id": "1587211714250"
+    },
+    {
+        "id": "1587211714254",
+        "text": "What's your policy number?",
+        "type": "question"
+    },
+    {
+        "text": "09876",
+        "id": "1587211717377"
+    },
+    {
+        "id": "1587211717381",
+        "text": "What illness are you seeking treatment for?",
+        "type": "question"
+    },
+    {
+        "text": "Flu and fever may be causing COVID",
+        "id": "1587211733325"
+    },
+    {
+        "id": "1587211733329",
+        "text": "Why was your procedure denied?",
+        "type": "question"
+    },
+    {
+        "text": "regular",
+        "id": "1587211742959"
+    },
+    {
+        "id": "1587211742962",
+        "text": "What procedure were you denied?",
+        "type": "question"
+    },
+    {
+        "text": "regular",
+        "id": "1587211753448"
+    },
+    {
+        "id": "1587211753452",
+        "text": "Why do you believe you were denied your insurance claim?",
+        "type": "question"
+    },
+    {
+        "text": "I lost my job",
+        "id": "1587211759386"
+    },
+    {
+        "text": "[Click here for your automatically generated report!](/results)",
+        "type": "question"
+    }
+]
