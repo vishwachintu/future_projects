@@ -2,11 +2,11 @@
 
 [![Project Status: Concept](https://img.shields.io/badge/Project%20Status-Concept-orange)](https://img.shields.io/badge/Project%20Status-Concept-orange)
 
-Welcome to the future home of [Project Name]! This repository is currently a placeholder for an exciting project that's in the planning stages. Stay tuned for updates and progress.
+Welcome to the future home of Future Projects! This repository is currently a placeholder for an exciting project that's in the planning stages. Stay tuned for updates and progress.
 
 ## Project Description
 
-[Project Name] is a [brief description of what your project aims to achieve]. It's designed to [mention the main goals and objectives]. 
+FP is a personal poc's which has been created out of fun. It's designed to [mention the main goals and objectives]. 
 
 ### Key Features
 
