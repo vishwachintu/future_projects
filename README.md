@@ -1,4 +1,4 @@
-# Future Project Name
+# Future Project
 
 [![Project Status: Concept](https://img.shields.io/badge/Project%20Status-Concept-orange)](https://img.shields.io/badge/Project%20Status-Concept-orange)
 
