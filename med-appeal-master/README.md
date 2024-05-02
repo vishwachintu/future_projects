@@ -10,3 +10,12 @@ Medical insurance providers often deny claims. 95% of their customers do not app
 ## Technologies
 
 Built with Python (Flask), Javascript (React), and Bootstrap.
+
+## Steps to execute
+Please follow the venv for 3.8 version of python
+
+python3 -m venv my_env
+
+source my_env/bin/activate
+
+run the .py file
